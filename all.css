@@ -1,0 +1,12 @@
+        table,
+        tr,
+        th,
+        td {
+            border: 1px solid black;
+            min-height: 500px;
+            font-size: 28px;
+        }
+        
+        table {
+            width: 100%;
+        }
